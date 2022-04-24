@@ -11,3 +11,5 @@ https://github.com/ani03sha/aem-demo
 mvn clean install
 
 直接上传 app content
+
+注意：content里面会包含core的代码。
