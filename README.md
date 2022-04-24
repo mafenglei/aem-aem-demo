@@ -4,3 +4,8 @@ This project contains all the code samples discussed on my blog - https://aem.re
 Following order can be followed to learn AEM development -
 
 https://aem.redquark.org/2018/10/day-00-aem-developer-series.html
+
+
+mvn clean install
+
+直接上传 app content
